@@ -19,3 +19,6 @@ Code for characterizing complex genomic alterations caused by CRISPR gene editin
 - Line 14 - Value for gap opening when aligning to the dystrophin gene
 - Line 15 - Value for gap opening when aligning to the AAV genome
 - Line 16 - Value for gap extending for AAV genome
+
+## Example Parameter file
+> See linked file here
