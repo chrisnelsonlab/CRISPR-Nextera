@@ -22,3 +22,9 @@ Code for characterizing complex genomic alterations caused by CRISPR gene editin
 
 ## Example Parameter file
 > See linked file here
+
+## Example data set
+> See linked .fastq files here
+
+## Data to recreate figures from Nature Medicine can be found here
+> SRA ########
