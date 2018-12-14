@@ -1,5 +1,5 @@
 # CRISPR-Nextera
-Code for characterizing complex genomic alterations caused by CRISPR gene editing using Illumina Nextera. 
+Code for characterizing complex genomic alterations caused by CRISPR gene editing using Illumina Nextera. Code is provided in MATLAB and should run in multiple operating systems but only tested on Windows. 
 
 
 ## Parameter file
