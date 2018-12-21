@@ -1,6 +1,25 @@
 # CRISPR-Nextera
 Code for characterizing complex genomic alterations caused by CRISPR gene editing using Illumina Nextera. Code is provided in MATLAB and should run in multiple operating systems but only tested on Windows. 
 
+# Purpose
+The code is provided for reproducibility of the published report (not published yet). This is not intended as a research tool but if you use it and have questions, please don't hesitate to ask and I'll do my best to respond. The code analyzes genomic results of dual nucleases for targeted deletion of a region of DNA. The analysis also includes room for two AAV vector genomes to queary for targeted integration, either intentional or unintentional.
+
+# Function
+- Read in fastq file in either .fastq or .fastq.gz
+- Remove misprimnig events
+- Bin reads as one of the following:
+1. Intact unedited allele
+2. Indel
+3. Targeted deletion
+4. AAV vector genome integration
+5. Targeted inversion
+6. Other (mystery) - these were then analyzed manually or with other alignment software. These could include chromosome translocations, large unexpected deletions, and sequencing/polymerase artificats. 
+
+# Experimental  design
+1. Nuclease (or CRISPR gRNA) design
+2. Primer design
+3. Optimization and troubleshooting
+4. Analysis
 
 ## Parameter file
 - Line 1 - Amplicon sequence if no editing takes place
