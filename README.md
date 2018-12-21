@@ -22,6 +22,10 @@ The code is provided for reproducibility of the published report (not published 
 4. Analysis
 
 ![Figure 1](https://github.com/chrisnelsonlab/CRISPR-Nextera/blob/master/images/Nextera_Fig1.png)
+Figure 1 - Possible outcomes of multiplexed genome editing
+
+![Figure 1](https://github.com/chrisnelsonlab/CRISPR-Nextera/blob/master/images/Nextera_Fig2.png)
+Figure 2 - Overview of Nextera enrichment for genome editing analysis
 
 ## Parameter file
 - Line 1 - Amplicon sequence if no editing takes place
