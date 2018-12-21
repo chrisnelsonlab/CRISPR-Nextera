@@ -21,6 +21,8 @@ The code is provided for reproducibility of the published report (not published 
 3. Optimization and troubleshooting
 4. Analysis
 
+![Figure 1](https://github.com/chrisnelsonlab/CRISPR-Nextera/blob/master/images/Nextera_Fig1.png)
+
 ## Parameter file
 - Line 1 - Amplicon sequence if no editing takes place
 - Line 2 - Amplicon sequence if a targeted deletion occurs
