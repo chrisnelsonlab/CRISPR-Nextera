@@ -45,5 +45,5 @@ The code is provided for reproducibility of the published report (not published 
 ## Example data set
 > See linked .fastq files here
 
-## Data to recreate figures from Nature Medicine can be found here
+## Data to recreate figures from (PAPER) can be found here
 > SRA ########
